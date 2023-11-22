@@ -11,9 +11,9 @@
 
 ### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Gxxdboy&icon=2&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=imnitin07&label=2000&icon=0&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
