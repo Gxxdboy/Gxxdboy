@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=imnitin07&label=2000&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=gxxdboy&label=Profile%20Views&color=10&pretty=true" />
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
